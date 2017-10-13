@@ -16,7 +16,7 @@ local rectangleY = 30
 local areaOfRectangle
 
 -- create my local variables for the circle
--- ***INSERT LOCAL VARIABLES FOR CIRCLE HERE (myCircle, radius, PI, circleX, circleY, areaOfCircle)
+-- ***INSERT LOCAL VARIABLES FOR CIRCLE HERE (myCircle, radius, PI, circleX, circleY, areaOfCircle, areaTextCircle, etc.)
 
 -- set the background colour of my screen.Remember that colors are between 0 and 1.
 -- ***INSERT CODE TO CHANGE BACKGROUND COLOUR HERE
